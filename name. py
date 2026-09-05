@@ -1,0 +1,2 @@
+Name=int(input("Enter your name")) 
+print("hello", name) 
